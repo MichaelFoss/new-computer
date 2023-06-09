@@ -14,3 +14,4 @@
 * [1password](https://1password.com/downloads/mac/)
 * [VLC Media Player](https://www.videolan.org/vlc/download-macosx.html)
 * [Audacity](https://www.audacityteam.org/download/mac/)
+* [Cron](https://cron.com/download/macos/)
