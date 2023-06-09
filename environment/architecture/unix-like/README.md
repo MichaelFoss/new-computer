@@ -1,4 +1,4 @@
-# Unix-Like Architecture
+# Unix-Like Setup
 
 ## OS-Specific
 
