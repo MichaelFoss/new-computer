@@ -1,6 +1,6 @@
 # Device Setup
 
-## [Architecture Specific](./architecture)
+## [Architecture-Specific](./architecture)
 
 * [unix-like](./architecture/unix-like)
 * [windows](./architecture/windows)
