@@ -1,6 +1,6 @@
 # Unix-Like Setup
 
-## OS-Specific
+## Unix-Based OS
 
 * [Mac](./mac)
 * [Linux](./linux)

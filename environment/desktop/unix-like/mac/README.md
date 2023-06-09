@@ -17,3 +17,6 @@
 * [Audacity](https://www.audacityteam.org/download/mac/)
 * [Cron](https://cron.com/download/macos/)
 * [SimpleComic](https://apps.apple.com/us/app/simple-comic/id1497435571)
+* [GIPHY Capture](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984)
+* [Hermes](https://hermesapp.org/)
+* [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466)

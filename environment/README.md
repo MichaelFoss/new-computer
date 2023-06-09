@@ -1,6 +1,9 @@
-# Device Setup
+# New Device Setup
 
-## [Architecture-Specific](./architecture/)
+## Device
+
+* [Desktop](./desktop/)
+* [Mobile](./mobile/)
 
 ## Common
 
@@ -16,5 +19,7 @@
   * [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
 * [SourceTree](https://www.sourcetreeapp.com/)
 * [Visual Studio Code](https://code.visualstudio.com/download) _(also available online at [https://vscode.dev/](https://vscode.dev/))_
+* [FileZilla](https://filezilla-project.org/download.php)
 * [Discord](https://discord.com/download)
 * [Steam](https://store.steampowered.com/about/)
+* [Postman](https://www.postman.com/downloads/)
