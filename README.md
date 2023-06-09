@@ -1,7 +1,5 @@
 # New Device Setup
 
-1. [Common](./environment/common.md)
-2. Architecture
-  * [Mac](./environment/mac.md)
-  * [Linux](./environment/linux.md)
-  * [Windows](./environment/windows)
+This provides a walkthrough of all necessary software and settings to install on any new device.
+
+To get started, click [here](./environment/).

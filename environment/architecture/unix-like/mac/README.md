@@ -11,3 +11,4 @@
     * qlmarkdown
     * youtube-to-mp3
 * [1password](https://1password.com/downloads/mac/)
+* [VLC Media Player](https://www.videolan.org/vlc/download-macosx.html)
