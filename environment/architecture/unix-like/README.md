@@ -1,4 +1,4 @@
-# New Device Setup – Unix-Like Architecture
+# Unix-Like Architecture
 
 ## OS-Specific
 
