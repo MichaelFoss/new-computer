@@ -1,4 +1,11 @@
-# Device Setup – Common Steps
+# Device Setup
+
+## [Architecture Specific](./architecture)
+
+* [unix-like](./architecture/unix-like)
+* [windows](./architecture/windows)
+
+## Common
 
 * [Google Chrome](https://google.com/chrome/)
 * Chrome Extensions:
