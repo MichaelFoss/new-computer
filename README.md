@@ -1,6 +1,7 @@
 # New Device Setup
 
-1. [Common](./common)
+1. [Common](./environment/common.md)
 2. Architecture
-  * [Unix-like](./unix-like)
-  * [Windows](./windows)
+  * [Mac](./environment/mac.md)
+  * [Linux](./environment/linux.md)
+  * [Windows](./environment/windows)
