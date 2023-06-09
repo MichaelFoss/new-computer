@@ -1,1 +1,1 @@
-# New Device Setup – Linux
+# Linux Setup
