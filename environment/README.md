@@ -15,6 +15,6 @@
   * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
   * [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
 * [SourceTree](https://www.sourcetreeapp.com/)
-* [Visual Studio Code](https://code.visualstudio.com/download) _(also available online at [https://vscode.dev/])_
+* [Visual Studio Code](https://code.visualstudio.com/download) _(also available online at [https://vscode.dev/](https://vscode.dev/))_
 * [Discord](https://discord.com/download)
 * [Steam](https://store.steampowered.com/about/)
