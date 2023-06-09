@@ -4,6 +4,7 @@
 
 ## Common
 
+* [Git settings](https://github.com/MichaelFoss/git-settings/)
 * [Google Chrome](https://google.com/chrome/)
 * Chrome Extensions:
   * [1Password - Password Manager](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa)
