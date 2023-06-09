@@ -1,13 +1,13 @@
 # Mac Setup
 * [Rectangle](https://rectangleapp.com/) _(previously [Spectacle](https://www.spectacleapp.com/))_
 * [Homebrew](https://brew.sh/)
-  * Brews:
+  * Brews _(`brew install <formulaName>`)_:
     * `cask`
     * `direnv`
     * `mysql`
     * `nvm`
     * `wget`
-  * Casks:
+  * Brews _(`brew install --cask <caskName>`)_:
     * `qlmarkdown`
     * `qlvideo` _(open app in Applications after installing)_
     * `youtube-to-mp3`
