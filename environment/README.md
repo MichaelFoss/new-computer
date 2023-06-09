@@ -2,8 +2,8 @@
 
 ## [Architecture-Specific](./architecture)
 
-* [unix-like](./architecture/unix-like)
-* [windows](./architecture/windows)
+* [Unix-Like](./architecture/unix-like)
+* [Windows](./architecture/windows)
 
 ## Common
 
