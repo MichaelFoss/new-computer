@@ -1,4 +1,4 @@
-# New Device Setup – Mac
+# Mac Setup
 * [Rectangle](https://rectangleapp.com/) _(previously [Spectacle](https://www.spectacleapp.com/))_
 * [Homebrew](https://brew.sh/)
   * Brews:
