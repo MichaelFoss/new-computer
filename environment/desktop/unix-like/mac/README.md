@@ -20,3 +20,5 @@
 * [GIPHY Capture](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984)
 * [Hermes](https://hermesapp.org/)
 * [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466)
+* Visual Studio Code
+    * [Run `code` from the command line to launch Visual Studio Code](https://code.visualstudio.com/docs/setup/mac)
