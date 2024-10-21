@@ -22,3 +22,14 @@
 * [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466)
 * Visual Studio Code
     * [Run `code` from the command line to launch Visual Studio Code](https://code.visualstudio.com/docs/setup/mac)
+* [iTerm2](https://iterm2.com/downloads.html)
+    * Profile setup
+        * Profiles > Keys > General
+            * Left Option key: Esc+
+        * Profiles > Keys > Key mappings
+            | FOR | ACTION | SEND |
+            | --- | ------ | ---- |
+            | ⌘ ← |"SEND HEX CODE" | `0x01` |
+            | ⌘ → |"SEND HEX CODE" | `0x05` |
+            | ⌥ ← |"SEND ESC SEQ" | `b` |
+            | ⌥ → |"SEND ESC SEQ" | `f` |
