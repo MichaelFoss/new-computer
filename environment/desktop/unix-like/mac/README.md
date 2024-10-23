@@ -9,7 +9,7 @@
     * `wget`
     * `powerlevel10k`
       * Add `source $(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme` to `.zshrc` post-install
-  * Brews _(`brew install --cask <caskName>`)_:
+  * Casks _(`brew install --cask <caskName>`)_:
     * `qlmarkdown`
     * `qlvideo` _(open app in Applications after installing)_
     * `syntax-highlight` _(install with `--no-quarantine` flag)_
