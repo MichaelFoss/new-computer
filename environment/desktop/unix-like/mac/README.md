@@ -1,4 +1,13 @@
 # Mac Setup
+
+## Settings
+
+* System Preferences
+  * Appearance
+    * Show scroll bars: Always
+
+## Software
+
 * [Rectangle](https://rectangleapp.com/) _(previously [Spectacle](https://www.spectacleapp.com/))_
 * [Homebrew](https://brew.sh/)
   * Brews _(`brew install <formulaName>`)_:
