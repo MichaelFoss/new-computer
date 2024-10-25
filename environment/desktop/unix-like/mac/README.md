@@ -14,6 +14,8 @@
     * `qlvideo` _(open app in Applications after installing)_
     * `syntax-highlight` _(install with `--no-quarantine` flag)_
     * `youtube-to-mp3`
+      * Latest version requires downloading and installing straight from MediaHuman's website;
+        brewing causes YouTube downloads to fail
 * [1password](https://1password.com/downloads/mac/)
 * [VLC Media Player](https://www.videolan.org/vlc/download-macosx.html)
 * [Audacity](https://www.audacityteam.org/download/mac/)
@@ -25,13 +27,22 @@
 * Visual Studio Code
     * [Run `code` from the command line to launch Visual Studio Code](https://code.visualstudio.com/docs/setup/mac)
 * [iTerm2](https://iterm2.com/downloads.html)
-    * Profile setup
-        * Profiles > Keys > General
-            * Left Option key: Esc+
-        * Profiles > Keys > Key mappings
-            | FOR | ACTION | SEND |
-            | --- | ------ | ---- |
-            | ⌘ ← |"SEND HEX CODE" | `0x01` |
-            | ⌘ → |"SEND HEX CODE" | `0x05` |
-            | ⌥ ← |"SEND ESC SEQ" | `b` |
-            | ⌥ → |"SEND ESC SEQ" | `f` |
+  * Startup
+    * Window restoration policy: "Use System Window Restoration Setting"
+      * Turn off "General > Close windows when quitting an app" in macOS System Preferences (see [here](https://iterm2.com/documentation-restoration.html) for why)
+  * Closing
+    * Check "Quit when all windows are closed"
+  * Profiles
+    * Profiles > Keys > General
+    * Left Option key: Esc+
+    * Profiles > Keys > Key mappings
+      | FOR | ACTION | SEND |
+      | --- | ------ | ---- |
+      | ⌘ ← |"SEND HEX CODE" | `0x01` |
+      | ⌘ → |"SEND HEX CODE" | `0x05` |
+      | ⌥ ← |"SEND ESC SEQ" | `b` |
+      | ⌥ → |"SEND ESC SEQ" | `f` |
+    * Pointer Settings
+      * Bindings
+        * Remove all bindings
+        * Add action for "Paste from Clipboard" and set to "Right button single click"
